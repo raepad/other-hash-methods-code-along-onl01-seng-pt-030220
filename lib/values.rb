@@ -16,5 +16,5 @@ groceries = {
   grains: ["rice", "pasta"]
  }
  
-groceries.keys
+groceries.values
 end
